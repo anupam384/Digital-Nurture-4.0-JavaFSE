@@ -20,16 +20,20 @@ This repository contains my weekly hands-on work and learning progress from the 
 
 
 
-🗓️ Week 2: JUnit, Mocking, Logging & PL/SQL Programming
-🔹 JUnit (Test-Driven Development)
-✅ Exercise 1: Setting Up JUnit
-✅ Exercise 2: Assertions in JUnit
-✅ Exercise 3: AAA Pattern, Test Fixtures, Setup and Teardown Methods
-🔹 Mockito (Mocking Framework)
-✅ Exercise 4: Mocking and Stubbing
-✅ Exercise 5: Verifying Interactions
-🔹 SLF4J Logging Framework
-✅ Exercise 1: Logging Error Messages and Warning Levels
+ 🗓️ Week 2: JUnit, Mocking, Logging & PL/SQL Programming
+
+ 🔹 JUnit (Test-Driven Development)
+* ✅ Exercise 1: Setting Up JUnit  
+* ✅ Exercise 2: Assertions in JUnit  
+* ✅ Exercise 3: AAA Pattern, Test Fixtures, Setup and Teardown Methods  
+
+ 🔹 Mockito (Mocking Framework)
+* ✅ Exercise 4: Mocking and Stubbing  
+* ✅ Exercise 5: Verifying Interactions  
+
+ 🔹 SLF4J Logging Framework
+* ✅ Exercise 1: Logging Error Messages and Warning Levels  
+
 🔹 PL/SQL Programming
-✅ Exercise 1: Control Structures
-✅ Exercise 2: Stored Procedures
+* ✅ Exercise 1: Control Structures  
+* ✅ Exercise 2: Stored Procedures  
