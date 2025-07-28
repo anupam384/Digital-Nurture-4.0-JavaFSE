@@ -49,5 +49,18 @@ This repository contains my weekly hands-on work and learning progress from the 
 
  🔹 Spring Data JPA with Spring Boot, Hibernate
 * ✅ Exercise 1: Spring Data JPA - Quick Example  
-* ✅ Exercise 2: Difference between JPA, Hibernate, and Spring Data JPA  
+* ✅ Exercise 2: Difference between JPA, Hibernate, and Spring Data JPA
+
+
+
+🗓️ Week 4: Spring REST using Spring Boot 3
+🔹 Spring Boot RESTful Services
+✅ Exercise 1: Create a Spring Web Project using Maven
+✅ Exercise 2: Load Country from Spring Configuration XML
+✅ Exercise 3: Hello World RESTful Web Service
+✅ Exercise 4: Country Web Service
+✅ Exercise 5: Get Country Based on Country Code
+🗓️ Week 5: Microservices with Spring Boot 3 and Spring Cloud
+🔹 Microservices Architecture
+✅ Exercise 1: Creating Microservices for Account and Loan
 
